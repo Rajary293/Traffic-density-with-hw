@@ -1,6 +1,8 @@
-# 🚦 AI Traffic Density Detection System
+# 🚦Traffic Density Detection System
 
-An AI-powered traffic density detection system developed using **Python**, **TensorFlow Lite**, and **OpenCV**. The application performs real-time vehicle detection from video streams and estimates traffic density, making it suitable for intelligent transportation and edge AI applications.
+This project implements a real-time traffic density detection system using TensorFlow Lite and OpenCV. It detects vehicles from webcam or video input, estimates traffic density based on detected vehicles, and displays the results in real time.
+
+The lightweight TensorFlow Lite model makes the application suitable for deployment on edge devices where computational resources are limited.
 
 ## Features
 
@@ -32,7 +34,7 @@ requirements.txt
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/Traffic-Density-Detection-System.git
+git clone https://github.com/Rajary293/Traffic-Density-Detection-System.git
 
 cd Traffic-Density-Detection-System
 
