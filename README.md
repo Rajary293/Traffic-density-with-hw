@@ -51,7 +51,7 @@ python src/main.py
 
 The system detects vehicles from video frames and estimates traffic density in real time.
 
-(Add screenshots or GIFs here.)
+
 
 ## Future Improvements
 
